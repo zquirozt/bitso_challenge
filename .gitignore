@@ -1,0 +1,24 @@
+# Archivos de caché y archivos compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+/bitso_challenge1
+# Virtualenv
+venv/
+.env/
+.idea/
+
+# Dependencias instaladas
+/libraries/
+
+# Archivos de configuración locales
+*.ini
+*.env
+
+# Archivos de registro y archivos temporales
+*.log
+*.swp
+
+# Carpeta de archivos estáticos generados
+/staticfiles/
